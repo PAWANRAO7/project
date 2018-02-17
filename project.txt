@@ -1,0 +1,9 @@
+This is a readme file by me for my college project.
+----------------------Banking Management Project--------------------------
+This is a project related to the banking management.In this project we will provide our customers.
+1) Log in page.
+2) Credit and Debit Option. 
+3) Register Page.
+On the basis of their authentication we will process their request.
+We will use initially one class 'Customer' , Three functions -:Login,Credit,Debit.
+
